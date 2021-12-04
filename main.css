@@ -16,6 +16,9 @@ h6 {
 ul {
 	margin: 0;
 }
+.bg-darkgrey{
+    background-color: #7B9095;
+}
 .bg-magenta {
     background-color: #b55086;
 }
